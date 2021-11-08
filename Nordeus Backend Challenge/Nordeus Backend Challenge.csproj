@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Nordeus_Backend_Challenge</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="MockedData\User_Mock_Data.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="MockedData\User_Mock_Data.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Common\Common.csproj" />
+    <ProjectReference Include="..\Core\Core.csproj" />
+  </ItemGroup>
+
+</Project>

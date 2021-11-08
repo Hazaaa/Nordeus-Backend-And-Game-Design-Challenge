@@ -1,0 +1,82 @@
+[
+  {
+    "Id": 1,
+    "FullName": "Alphonse Kigelman",
+    "Username": "akigelman0",
+    "Password": "48svsSGJoa",
+    "Email": "akigelman0@pen.io",
+    "Region": "NorthAmerica"
+  },
+  {
+    "Id": 2,
+    "FullName": "Gaspard Grigg",
+    "Username": "ggrigg1",
+    "Password": "sioJiEp0",
+    "Email": "ggrigg1@live.com",
+    "Region": "NorthAmerica"
+  },
+  {
+    "Id": 3,
+    "FullName": "Cecilia Hobden",
+    "Username": "chobden2",
+    "Password": "J3Bhnw0TkZe",
+    "Email": "chobden2@delicious.com",
+    "Region": "NorthAmerica"
+  },
+  {
+    "Id": 4,
+    "FullName": "Meridel Lanceley",
+    "Username": "mlanceley3",
+    "Password": "iYkkMoqF7vM",
+    "Email": "mlanceley3@wix.com",
+    "Region": "WesternEurope"
+  },
+  {
+    "Id": 5,
+    "FullName": "Gorden Pierpoint",
+    "Username": "gpierpoint4",
+    "Password": "faTYI3YS",
+    "Email": "gpierpoint4@bizjournals.com",
+    "Region": "SouthAmerica"
+  },
+  {
+    "Id": 6,
+    "FullName": "Josy Reveley",
+    "Username": "jreveley5",
+    "Password": "ILAR5bp",
+    "Email": "jreveley5@unicef.org",
+    "Region": "WesternEurope"
+  },
+  {
+    "Id": 7,
+    "FullName": "Jeffrey Illiston",
+    "Username": "jilliston6",
+    "Password": "VA0hJ4xS9ndL",
+    "Email": "jilliston6@lycos.com",
+    "Region": "SouthAmerica"
+  },
+  {
+    "Id": 8,
+    "FullName": "Benn Welsby",
+    "Username": "bwelsby7",
+    "Password": "XSJsl70PlHLo",
+    "Email": "bwelsby7@alibaba.com",
+    "Region": "SouthAmerica"
+  },
+  {
+    "Id": 9,
+    "FullName": "Gard Zini",
+    "Username": "gzini8",
+    "Password": "2hGnSKhk9W20",
+    "Email": "gzini8@sun.com",
+    "Region": "EasternEurope"
+  },
+  {
+    "Id": 10,
+    "FullName": "Meara Leacy",
+    "Username": "mleacy9",
+    "Password": "Rwrsyc",
+    "Email": "mleacy9@instagram.com",
+    "Region": "EasternEurope"
+  }
+]

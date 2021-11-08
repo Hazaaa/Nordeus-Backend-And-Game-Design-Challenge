@@ -1,0 +1,72 @@
+[
+  {
+    "Id": 1,
+    "FullName": "Tory Lavers",
+    "Rating": 82,
+    "ClubId": 1,
+    "FavoriteFormation": "3-5-2"
+  },
+  {
+    "Id": 2,
+    "FullName": "Pate Oaten",
+    "Rating": 63,
+    "ClubId": 2,
+    "FavoriteFormation": "4-1-3-2"
+  },
+  {
+    "Id": 3,
+    "FullName": "Dewie Cheesley",
+    "Rating": 81,
+    "ClubId": 3,
+    "FavoriteFormation": "4-4-2"
+  },
+  {
+    "Id": 4,
+    "FullName": "Neville Wrotham",
+    "Rating": 56,
+    "ClubId": 4,
+    "FavoriteFormation": "4-3-3"
+  },
+  {
+    "Id": 5,
+    "FullName": "Joell Francklin",
+    "Rating": 70,
+    "ClubId": 5,
+    "FavoriteFormation": "3-5-2"
+  },
+  {
+    "Id": 6,
+    "FullName": "Ingrim Iapico",
+    "Rating": 99,
+    "ClubId": 6,
+    "FavoriteFormation": "3-4-3"
+  },
+  {
+    "Id": 7,
+    "FullName": "Binny Burner",
+    "Rating": 67,
+    "ClubId": 7,
+    "FavoriteFormation": "4-4-2"
+  },
+  {
+    "Id": 8,
+    "FullName": "Vivien Oxx",
+    "Rating": 69,
+    "ClubId": 8,
+    "FavoriteFormation": "4-2-2-2"
+  },
+  {
+    "Id": 9,
+    "FullName": "Niel Bruyntjes",
+    "Rating": 91,
+    "ClubId": 9,
+    "FavoriteFormation": "4-3-3"
+  },
+  {
+    "Id": 10,
+    "FullName": "Cobby Stangoe",
+    "Rating": 94,
+    "ClubId": 10,
+    "FavoriteFormation": "3-5-2"
+  }
+]

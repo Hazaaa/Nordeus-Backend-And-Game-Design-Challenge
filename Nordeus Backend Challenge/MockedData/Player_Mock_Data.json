@@ -1,0 +1,1898 @@
+[
+  {
+    "Id": 12,
+    "FullName": "Bogart Dunan",
+    "Rating": 55,
+    "ClubId": 1,
+    "Position": 0,
+    "Worth": "$5573123.30"
+  },
+  {
+    "Id": 4,
+    "FullName": "Denice Pavlata",
+    "Rating": 67,
+    "ClubId": 1,
+    "Position": 2,
+    "Worth": "$8500121.78"
+  },
+  {
+    "Id": 18,
+    "FullName": "Thadeus Highway",
+    "Rating": 92,
+    "ClubId": 1,
+    "Position": 2,
+    "Worth": "$281893.46"
+  },
+  {
+    "Id": 6,
+    "FullName": "Quillan Liepins",
+    "Rating": 86,
+    "ClubId": 1,
+    "Position": 2,
+    "Worth": "$3717012.42"
+  },
+  {
+    "Id": 15,
+    "FullName": "Langsdon Baughan",
+    "Rating": 94,
+    "ClubId": 1,
+    "Position": 3,
+    "Worth": "$175315.02"
+  },
+  {
+    "Id": 1,
+    "FullName": "Rancell Golda",
+    "Rating": 52,
+    "ClubId": 1,
+    "Position": 4,
+    "Worth": "$6814825.97"
+  },
+  {
+    "Id": 7,
+    "FullName": "Mile Dumbleton",
+    "Rating": 95,
+    "ClubId": 1,
+    "Position": 4,
+    "Worth": "$6713282.11"
+  },
+  {
+    "Id": 17,
+    "FullName": "Ruthie Milbourn",
+    "Rating": 79,
+    "ClubId": 1,
+    "Position": 4,
+    "Worth": "$9111305.06"
+  },
+  {
+    "Id": 10,
+    "FullName": "Felicity Bellas",
+    "Rating": 75,
+    "ClubId": 1,
+    "Position": 5,
+    "Worth": "$5127261.00"
+  },
+  {
+    "Id": 20,
+    "FullName": "Robbi Fairbairn",
+    "Rating": 51,
+    "ClubId": 1,
+    "Position": 5,
+    "Worth": "$6820191.79"
+  },
+  {
+    "Id": 3,
+    "FullName": "Newton Halwell",
+    "Rating": 68,
+    "ClubId": 1,
+    "Position": 6,
+    "Worth": "$8185676.16"
+  },
+  {
+    "Id": 13,
+    "FullName": "Kory Wiggett",
+    "Rating": 74,
+    "ClubId": 1,
+    "Position": 6,
+    "Worth": "$1057825.47"
+  },
+  {
+    "Id": 16,
+    "FullName": "Silvain Jeandin",
+    "Rating": 80,
+    "ClubId": 1,
+    "Position": 6,
+    "Worth": "$2585811.09"
+  },
+  {
+    "Id": 19,
+    "FullName": "Mufi Dooman",
+    "Rating": 84,
+    "ClubId": 1,
+    "Position": 6,
+    "Worth": "$6740429.49"
+  },
+  {
+    "Id": 11,
+    "FullName": "Jehanna Dallinder",
+    "Rating": 78,
+    "ClubId": 1,
+    "Position": 8,
+    "Worth": "$4336772.34"
+  },
+  {
+    "Id": 9,
+    "FullName": "Rabbi Laviste",
+    "Rating": 65,
+    "ClubId": 1,
+    "Position": 9,
+    "Worth": "$1087296.00"
+  },
+  {
+    "Id": 2,
+    "FullName": "Lucian Flannigan",
+    "Rating": 88,
+    "ClubId": 1,
+    "Position": 10,
+    "Worth": "$8578026.00"
+  },
+  {
+    "Id": 5,
+    "FullName": "Flossi Boxen",
+    "Rating": 88,
+    "ClubId": 1,
+    "Position": 12,
+    "Worth": "$2347970.97"
+  },
+  {
+    "Id": 14,
+    "FullName": "Logan Gehringer",
+    "Rating": 62,
+    "ClubId": 1,
+    "Position": 12,
+    "Worth": "$1361337.82"
+  },
+  {
+    "Id": 8,
+    "FullName": "Charlean Tape",
+    "Rating": 73,
+    "ClubId": 1,
+    "Position": 14,
+    "Worth": "$8586017.34"
+  },
+  {
+    "Id": 30,
+    "FullName": "Zsa zsa Surgener",
+    "Rating": 81,
+    "ClubId": 2,
+    "Position": 0,
+    "Worth": "$8195617.19"
+  },
+  {
+    "Id": 31,
+    "FullName": "Tracey Pattrick",
+    "Rating": 89,
+    "ClubId": 2,
+    "Position": 0,
+    "Worth": "$8285235.90"
+  },
+  {
+    "Id": 32,
+    "FullName": "Irina Van Hault",
+    "Rating": 82,
+    "ClubId": 2,
+    "Position": 0,
+    "Worth": "$7187220.96"
+  },
+  {
+    "Id": 43,
+    "FullName": "Abba Moulton",
+    "Rating": 83,
+    "ClubId": 2,
+    "Position": 0,
+    "Worth": "$3471522.07"
+  },
+  {
+    "Id": 23,
+    "FullName": "Peggi Stockoe",
+    "Rating": 68,
+    "ClubId": 2,
+    "Position": 2,
+    "Worth": "$424545.75"
+  },
+  {
+    "Id": 42,
+    "FullName": "Madeline Stroulger",
+    "Rating": 96,
+    "ClubId": 2,
+    "Position": 2,
+    "Worth": "$8851138.77"
+  },
+  {
+    "Id": 44,
+    "FullName": "Ax Metcalf",
+    "Rating": 52,
+    "ClubId": 2,
+    "Position": 3,
+    "Worth": "$5572620.56"
+  },
+  {
+    "Id": 22,
+    "FullName": "Kariotta Vaudrey",
+    "Rating": 68,
+    "ClubId": 2,
+    "Position": 4,
+    "Worth": "$7171805.87"
+  },
+  {
+    "Id": 36,
+    "FullName": "Agnella Izkoveski",
+    "Rating": 98,
+    "ClubId": 2,
+    "Position": 1,
+    "Worth": "$2845198.39"
+  },
+  {
+    "Id": 28,
+    "FullName": "Cristobal Tezure",
+    "Rating": 76,
+    "ClubId": 2,
+    "Position": 6,
+    "Worth": "$1283804.27"
+  },
+  {
+    "Id": 29,
+    "FullName": "Gay Ealles",
+    "Rating": 53,
+    "ClubId": 2,
+    "Position": 6,
+    "Worth": "$9242667.35"
+  },
+  {
+    "Id": 41,
+    "FullName": "Brita McMackin",
+    "Rating": 53,
+    "ClubId": 2,
+    "Position": 7,
+    "Worth": "$3052853.19"
+  },
+  {
+    "Id": 34,
+    "FullName": "Gib Ert",
+    "Rating": 79,
+    "ClubId": 2,
+    "Position": 8,
+    "Worth": "$1247296.28"
+  },
+  {
+    "Id": 39,
+    "FullName": "Stanly Stretton",
+    "Rating": 95,
+    "ClubId": 2,
+    "Position": 8,
+    "Worth": "$2299353.67"
+  },
+  {
+    "Id": 24,
+    "FullName": "Evangeline Wildber",
+    "Rating": 56,
+    "ClubId": 2,
+    "Position": 9,
+    "Worth": "$3203844.65"
+  },
+  {
+    "Id": 25,
+    "FullName": "Clarey Faussett",
+    "Rating": 87,
+    "ClubId": 2,
+    "Position": 10,
+    "Worth": "$5885317.65"
+  },
+  {
+    "Id": 35,
+    "FullName": "Anastasia Gagg",
+    "Rating": 94,
+    "ClubId": 2,
+    "Position": 10,
+    "Worth": "$512720.42"
+  },
+  {
+    "Id": 26,
+    "FullName": "Ava Jopke",
+    "Rating": 96,
+    "ClubId": 2,
+    "Position": 12,
+    "Worth": "$3988316.26"
+  },
+  {
+    "Id": 33,
+    "FullName": "Rikki Kobu",
+    "Rating": 87,
+    "ClubId": 2,
+    "Position": 12,
+    "Worth": "$4314571.00"
+  },
+  {
+    "Id": 38,
+    "FullName": "Mozes Dawtre",
+    "Rating": 80,
+    "ClubId": 2,
+    "Position": 12,
+    "Worth": "$7659861.84"
+  },
+  {
+    "Id": 27,
+    "FullName": "Norine Waterstone",
+    "Rating": 59,
+    "ClubId": 2,
+    "Position": 13,
+    "Worth": "$2321127.27"
+  },
+  {
+    "Id": 21,
+    "FullName": "Kennett Durnell",
+    "Rating": 96,
+    "ClubId": 2,
+    "Position": 14,
+    "Worth": "$3023185.05"
+  },
+  {
+    "Id": 37,
+    "FullName": "Winifield Kiloh",
+    "Rating": 61,
+    "ClubId": 2,
+    "Position": 14,
+    "Worth": "$4560892.74"
+  },
+  {
+    "Id": 40,
+    "FullName": "Cynde Kohrs",
+    "Rating": 65,
+    "ClubId": 2,
+    "Position": 14,
+    "Worth": "$3385334.32"
+  },
+  {
+    "Id": 56,
+    "FullName": "Wenonah Kun",
+    "Rating": 55,
+    "ClubId": 3,
+    "Position": 0,
+    "Worth": "$3054988.54"
+  },
+  {
+    "Id": 57,
+    "FullName": "Remy Potier",
+    "Rating": 69,
+    "ClubId": 3,
+    "Position": 0,
+    "Worth": "$1825747.22"
+  },
+  {
+    "Id": 61,
+    "FullName": "Sullivan Kadd",
+    "Rating": 59,
+    "ClubId": 3,
+    "Position": 2,
+    "Worth": "$9356730.39"
+  },
+  {
+    "Id": 46,
+    "FullName": "Diego Sunock",
+    "Rating": 59,
+    "ClubId": 3,
+    "Position": 2,
+    "Worth": "$2477438.78"
+  },
+  {
+    "Id": 48,
+    "FullName": "Merell Yeaman",
+    "Rating": 56,
+    "ClubId": 3,
+    "Position": 3,
+    "Worth": "$5025038.70"
+  },
+  {
+    "Id": 58,
+    "FullName": "Berna Robins",
+    "Rating": 54,
+    "ClubId": 3,
+    "Position": 3,
+    "Worth": "$5683276.44"
+  },
+  {
+    "Id": 44,
+    "FullName": "Thomas Denyer",
+    "Rating": 69,
+    "ClubId": 3,
+    "Position": 1,
+    "Worth": "$1253487.65"
+  },
+  {
+    "Id": 47,
+    "FullName": "Linet Dearing",
+    "Rating": 67,
+    "ClubId": 3,
+    "Position": 4,
+    "Worth": "$3225842.14"
+  },
+  {
+    "Id": 49,
+    "FullName": "Tobey Cona",
+    "Rating": 66,
+    "ClubId": 3,
+    "Position": 5,
+    "Worth": "$5883528.99"
+  },
+  {
+    "Id": 53,
+    "FullName": "Jeno Normanvell",
+    "Rating": 64,
+    "ClubId": 3,
+    "Position": 5,
+    "Worth": "$6491494.92"
+  },
+  {
+    "Id": 45,
+    "FullName": "Annalise McGifford",
+    "Rating": 51,
+    "ClubId": 3,
+    "Position": 7,
+    "Worth": "$9880225.94"
+  },
+  {
+    "Id": 54,
+    "FullName": "Norbert Hothersall",
+    "Rating": 77,
+    "ClubId": 3,
+    "Position": 7,
+    "Worth": "$4746352.16"
+  },
+  {
+    "Id": 60,
+    "FullName": "Jody Noad",
+    "Rating": 98,
+    "ClubId": 3,
+    "Position": 7,
+    "Worth": "$6240133.27"
+  },
+  {
+    "Id": 52,
+    "FullName": "Tarrah Paffley",
+    "Rating": 77,
+    "ClubId": 3,
+    "Position": 8,
+    "Worth": "$8199801.64"
+  },
+  {
+    "Id": 50,
+    "FullName": "Vittorio Strickett",
+    "Rating": 71,
+    "ClubId": 3,
+    "Position": 8,
+    "Worth": "$5627823.57"
+  },
+  {
+    "Id": 51,
+    "FullName": "Tessie Schindler",
+    "Rating": 63,
+    "ClubId": 3,
+    "Position": 9,
+    "Worth": "$4901064.58"
+  },
+  {
+    "Id": 55,
+    "FullName": "Niles Tanzer",
+    "Rating": 67,
+    "ClubId": 3,
+    "Position": 12,
+    "Worth": "$2974163.18"
+  },
+  {
+    "Id": 59,
+    "FullName": "Cristian Druitt",
+    "Rating": 70,
+    "ClubId": 3,
+    "Position": 12,
+    "Worth": "$4554827.90"
+  },
+  {
+    "Id": 81,
+    "FullName": "Maudie Brainsby",
+    "Rating": 74,
+    "ClubId": 4,
+    "Position": 0,
+    "Worth": "$950027.87"
+  },
+  {
+    "Id": 75,
+    "FullName": "Jesse Greenough",
+    "Rating": 91,
+    "ClubId": 4,
+    "Position": 1,
+    "Worth": "$601135.78"
+  },
+  {
+    "Id": 79,
+    "FullName": "Urbanus Coverly",
+    "Rating": 93,
+    "ClubId": 4,
+    "Position": 1,
+    "Worth": "$5245331.14"
+  },
+  {
+    "Id": 87,
+    "FullName": "Tessy Kennion",
+    "Rating": 92,
+    "ClubId": 4,
+    "Position": 1,
+    "Worth": "$9315121.53"
+  },
+  {
+    "Id": 66,
+    "FullName": "Stefano Tomney",
+    "Rating": 70,
+    "ClubId": 4,
+    "Position": 2,
+    "Worth": "$8755185.36"
+  },
+  {
+    "Id": 80,
+    "FullName": "Noelyn Booker",
+    "Rating": 92,
+    "ClubId": 4,
+    "Position": 2,
+    "Worth": "$9989702.22"
+  },
+  {
+    "Id": 84,
+    "FullName": "Dian Trobey",
+    "Rating": 61,
+    "ClubId": 4,
+    "Position": 3,
+    "Worth": "$9106583.67"
+  },
+  {
+    "Id": 64,
+    "FullName": "Colene Meric",
+    "Rating": 89,
+    "ClubId": 4,
+    "Position": 4,
+    "Worth": "$8544245.80"
+  },
+  {
+    "Id": 77,
+    "FullName": "Felice Loche",
+    "Rating": 58,
+    "ClubId": 4,
+    "Position": 4,
+    "Worth": "$8587882.95"
+  },
+  {
+    "Id": 71,
+    "FullName": "Dagny Sussems",
+    "Rating": 64,
+    "ClubId": 4,
+    "Position": 5,
+    "Worth": "$9616414.15"
+  },
+  {
+    "Id": 82,
+    "FullName": "Bernhard Dash",
+    "Rating": 76,
+    "ClubId": 4,
+    "Position": 5,
+    "Worth": "$8355562.24"
+  },
+  {
+    "Id": 85,
+    "FullName": "Malory Bilham",
+    "Rating": 63,
+    "ClubId": 4,
+    "Position": 5,
+    "Worth": "$9648945.08"
+  },
+  {
+    "Id": 78,
+    "FullName": "Shelbi Mound",
+    "Rating": 96,
+    "ClubId": 4,
+    "Position": 8,
+    "Worth": "$7523264.54"
+  },
+  {
+    "Id": 68,
+    "FullName": "Seline Surman",
+    "Rating": 66,
+    "ClubId": 4,
+    "Position": 8,
+    "Worth": "$9933433.21"
+  },
+  {
+    "Id": 70,
+    "FullName": "Carny Velasquez",
+    "Rating": 72,
+    "ClubId": 4,
+    "Position": 8,
+    "Worth": "$3366938.85"
+  },
+  {
+    "Id": 73,
+    "FullName": "Godfrey Medford",
+    "Rating": 73,
+    "ClubId": 4,
+    "Position": 9,
+    "Worth": "$9634861.59"
+  },
+  {
+    "Id": 83,
+    "FullName": "Cass Flacknoe",
+    "Rating": 71,
+    "ClubId": 4,
+    "Position": 9,
+    "Worth": "$5297742.24"
+  },
+  {
+    "Id": 72,
+    "FullName": "Dianna Forbear",
+    "Rating": 99,
+    "ClubId": 4,
+    "Position": 10,
+    "Worth": "$7094986.09"
+  },
+  {
+    "Id": 63,
+    "FullName": "Des Fedynski",
+    "Rating": 56,
+    "ClubId": 4,
+    "Position": 11,
+    "Worth": "$6509527.32"
+  },
+  {
+    "Id": 67,
+    "FullName": "Odell Bardill",
+    "Rating": 65,
+    "ClubId": 4,
+    "Position": 11,
+    "Worth": "$3136796.89"
+  },
+  {
+    "Id": 69,
+    "FullName": "Johnath Bennell",
+    "Rating": 82,
+    "ClubId": 4,
+    "Position": 11,
+    "Worth": "$1138602.96"
+  },
+  {
+    "Id": 74,
+    "FullName": "Luz D'Onisi",
+    "Rating": 79,
+    "ClubId": 4,
+    "Position": 11,
+    "Worth": "$7500637.93"
+  },
+  {
+    "Id": 76,
+    "FullName": "Whitman Jelley",
+    "Rating": 80,
+    "ClubId": 4,
+    "Position": 14,
+    "Worth": "$9335951.64"
+  },
+  {
+    "Id": 86,
+    "FullName": "Barrett McNickle",
+    "Rating": 67,
+    "ClubId": 4,
+    "Position": 14,
+    "Worth": "$426277.08"
+  },
+  {
+    "Id": 65,
+    "FullName": "Veda Creaven",
+    "Rating": 82,
+    "ClubId": 4,
+    "Position": 13,
+    "Worth": "$8491926.84"
+  },
+  {
+    "Id": 98,
+    "FullName": "Sharity Capstack",
+    "Rating": 84,
+    "ClubId": 5,
+    "Position": 0,
+    "Worth": "$5826098.83"
+  },
+  {
+    "Id": 107,
+    "FullName": "Jimmie Willavoys",
+    "Rating": 65,
+    "ClubId": 5,
+    "Position": 1,
+    "Worth": "$3314243.17"
+  },
+  {
+    "Id": 93,
+    "FullName": "Rena Klewer",
+    "Rating": 81,
+    "ClubId": 5,
+    "Position": 2,
+    "Worth": "$8139002.59"
+  },
+  {
+    "Id": 99,
+    "FullName": "Ethe Crayke",
+    "Rating": 82,
+    "ClubId": 5,
+    "Position": 2,
+    "Worth": "$9541628.09"
+  },
+  {
+    "Id": 108,
+    "FullName": "Kim Summers",
+    "Rating": 69,
+    "ClubId": 5,
+    "Position": 2,
+    "Worth": "$2452930.54"
+  },
+  {
+    "Id": 114,
+    "FullName": "Jill Keenlyside",
+    "Rating": 51,
+    "ClubId": 5,
+    "Position": 2,
+    "Worth": "$7079127.32"
+  },
+  {
+    "Id": 100,
+    "FullName": "Jeralee Ashley",
+    "Rating": 65,
+    "ClubId": 5,
+    "Position": 4,
+    "Worth": "$2862340.25"
+  },
+  {
+    "Id": 88,
+    "FullName": "Devin Carville",
+    "Rating": 85,
+    "ClubId": 5,
+    "Position": 3,
+    "Worth": "$5499552.72"
+  },
+  {
+    "Id": 103,
+    "FullName": "Gilbert Donan",
+    "Rating": 92,
+    "ClubId": 5,
+    "Position": 6,
+    "Worth": "$4553945.29"
+  },
+  {
+    "Id": 115,
+    "FullName": "Bibbye Sarver",
+    "Rating": 91,
+    "ClubId": 5,
+    "Position": 6,
+    "Worth": "$4517609.19"
+  },
+  {
+    "Id": 89,
+    "FullName": "Batsheva Chaldecott",
+    "Rating": 80,
+    "ClubId": 5,
+    "Position": 7,
+    "Worth": "$9879210.45"
+  },
+  {
+    "Id": 92,
+    "FullName": "Johanna Yesenin",
+    "Rating": 69,
+    "ClubId": 5,
+    "Position": 7,
+    "Worth": "$2306048.56"
+  },
+  {
+    "Id": 94,
+    "FullName": "Karel Yerson",
+    "Rating": 55,
+    "ClubId": 5,
+    "Position": 7,
+    "Worth": "$2079416.72"
+  },
+  {
+    "Id": 96,
+    "FullName": "Vinnie Varran",
+    "Rating": 84,
+    "ClubId": 5,
+    "Position": 7,
+    "Worth": "$7532482.16"
+  },
+  {
+    "Id": 116,
+    "FullName": "Marlee Martelet",
+    "Rating": 90,
+    "ClubId": 5,
+    "Position": 7,
+    "Worth": "$2440562.75"
+  },
+  {
+    "Id": 102,
+    "FullName": "Sigvard Lobe",
+    "Rating": 66,
+    "ClubId": 5,
+    "Position": 8,
+    "Worth": "$1046440.50"
+  },
+  {
+    "Id": 113,
+    "FullName": "Alistair Rudall",
+    "Rating": 76,
+    "ClubId": 5,
+    "Position": 8,
+    "Worth": "$984423.57"
+  },
+  {
+    "Id": 95,
+    "FullName": "Sean Fenn",
+    "Rating": 53,
+    "ClubId": 5,
+    "Position": 9,
+    "Worth": "$5422188.41"
+  },
+  {
+    "Id": 111,
+    "FullName": "Rodie Stranieri",
+    "Rating": 95,
+    "ClubId": 5,
+    "Position": 9,
+    "Worth": "$298499.79"
+  },
+  {
+    "Id": 117,
+    "FullName": "Kally Salamon",
+    "Rating": 91,
+    "ClubId": 5,
+    "Position": 9,
+    "Worth": "$4312994.31"
+  },
+  {
+    "Id": 91,
+    "FullName": "Rosie Westrip",
+    "Rating": 68,
+    "ClubId": 5,
+    "Position": 10,
+    "Worth": "$8972094.46"
+  },
+  {
+    "Id": 97,
+    "FullName": "Ethelda Banck",
+    "Rating": 72,
+    "ClubId": 5,
+    "Position": 10,
+    "Worth": "$486175.00"
+  },
+  {
+    "Id": 90,
+    "FullName": "Hamlin Laven",
+    "Rating": 62,
+    "ClubId": 5,
+    "Position": 11,
+    "Worth": "$6688876.71"
+  },
+  {
+    "Id": 104,
+    "FullName": "Lukas McComb",
+    "Rating": 73,
+    "ClubId": 5,
+    "Position": 11,
+    "Worth": "$5004999.01"
+  },
+  {
+    "Id": 105,
+    "FullName": "Emeline Kobiela",
+    "Rating": 60,
+    "ClubId": 5,
+    "Position": 11,
+    "Worth": "$2792810.13"
+  },
+  {
+    "Id": 106,
+    "FullName": "Roch Scaysbrook",
+    "Rating": 62,
+    "ClubId": 5,
+    "Position": 11,
+    "Worth": "$252574.19"
+  },
+  {
+    "Id": 110,
+    "FullName": "Bowie Tustin",
+    "Rating": 51,
+    "ClubId": 5,
+    "Position": 11,
+    "Worth": "$4101646.35"
+  },
+  {
+    "Id": 109,
+    "FullName": "Baillie Seccombe",
+    "Rating": 56,
+    "ClubId": 5,
+    "Position": 12,
+    "Worth": "$1062141.83"
+  },
+  {
+    "Id": 112,
+    "FullName": "Even Antonsson",
+    "Rating": 63,
+    "ClubId": 5,
+    "Position": 12,
+    "Worth": "$2351118.11"
+  },
+  {
+    "Id": 101,
+    "FullName": "Anette Saunper",
+    "Rating": 73,
+    "ClubId": 5,
+    "Position": 13,
+    "Worth": "$5252106.16"
+  },
+  {
+    "Id": 137,
+    "FullName": "Gavan Tuer",
+    "Rating": 83,
+    "ClubId": 6,
+    "Position": 0,
+    "Worth": "$5509686.70"
+  },
+  {
+    "Id": 143,
+    "FullName": "Katherina Drynan",
+    "Rating": 57,
+    "ClubId": 6,
+    "Position": 0,
+    "Worth": "$5639685.19"
+  },
+  {
+    "Id": 126,
+    "FullName": "Gilbertine Tommasetti",
+    "Rating": 98,
+    "ClubId": 6,
+    "Position": 1,
+    "Worth": "$196320.15"
+  },
+  {
+    "Id": 127,
+    "FullName": "Sean Demchen",
+    "Rating": 51,
+    "ClubId": 6,
+    "Position": 1,
+    "Worth": "$6546482.00"
+  },
+  {
+    "Id": 140,
+    "FullName": "Kenn Delafont",
+    "Rating": 58,
+    "ClubId": 6,
+    "Position": 2,
+    "Worth": "$9702963.23"
+  },
+  {
+    "Id": 130,
+    "FullName": "Morissa Trustey",
+    "Rating": 88,
+    "ClubId": 6,
+    "Position": 3,
+    "Worth": "$1638916.11"
+  },
+  {
+    "Id": 134,
+    "FullName": "Inger Batrim",
+    "Rating": 50,
+    "ClubId": 6,
+    "Position": 3,
+    "Worth": "$887836.28"
+  },
+  {
+    "Id": 136,
+    "FullName": "Adah Peyro",
+    "Rating": 68,
+    "ClubId": 6,
+    "Position": 4,
+    "Worth": "$4783657.49"
+  },
+  {
+    "Id": 120,
+    "FullName": "Ewell Laddle",
+    "Rating": 67,
+    "ClubId": 6,
+    "Position": 5,
+    "Worth": "$6992751.53"
+  },
+  {
+    "Id": 135,
+    "FullName": "Truman Chesley",
+    "Rating": 62,
+    "ClubId": 6,
+    "Position": 5,
+    "Worth": "$6390559.95"
+  },
+  {
+    "Id": 139,
+    "FullName": "Noreen Toghill",
+    "Rating": 94,
+    "ClubId": 6,
+    "Position": 5,
+    "Worth": "$6845766.54"
+  },
+  {
+    "Id": 133,
+    "FullName": "Selma Rosingdall",
+    "Rating": 72,
+    "ClubId": 6,
+    "Position": 6,
+    "Worth": "$9266629.05"
+  },
+  {
+    "Id": 144,
+    "FullName": "Hank Humm",
+    "Rating": 94,
+    "ClubId": 6,
+    "Position": 6,
+    "Worth": "$2069006.12"
+  },
+  {
+    "Id": 124,
+    "FullName": "Daveta Riolfo",
+    "Rating": 88,
+    "ClubId": 6,
+    "Position": 7,
+    "Worth": "$5933879.11"
+  },
+  {
+    "Id": 138,
+    "FullName": "Kylynn Durram",
+    "Rating": 50,
+    "ClubId": 6,
+    "Position": 7,
+    "Worth": "$2546895.83"
+  },
+  {
+    "Id": 145,
+    "FullName": "Ezekiel MacAnelley",
+    "Rating": 53,
+    "ClubId": 6,
+    "Position": 7,
+    "Worth": "$780778.83"
+  },
+  {
+    "Id": 122,
+    "FullName": "Donia Rizzardini",
+    "Rating": 55,
+    "ClubId": 6,
+    "Position": 8,
+    "Worth": "$9861082.89"
+  },
+  {
+    "Id": 131,
+    "FullName": "Zorana Tompion",
+    "Rating": 77,
+    "ClubId": 6,
+    "Position": 9,
+    "Worth": "$5591160.87"
+  },
+  {
+    "Id": 132,
+    "FullName": "Mandel Herreran",
+    "Rating": 58,
+    "ClubId": 6,
+    "Position": 10,
+    "Worth": "$1477491.83"
+  },
+  {
+    "Id": 123,
+    "FullName": "Almeta Shorland",
+    "Rating": 97,
+    "ClubId": 6,
+    "Position": 11,
+    "Worth": "$890154.32"
+  },
+  {
+    "Id": 129,
+    "FullName": "June Haken",
+    "Rating": 81,
+    "ClubId": 6,
+    "Position": 11,
+    "Worth": "$711745.75"
+  },
+  {
+    "Id": 141,
+    "FullName": "Henrietta Nollet",
+    "Rating": 52,
+    "ClubId": 6,
+    "Position": 11,
+    "Worth": "$8289259.47"
+  },
+  {
+    "Id": 118,
+    "FullName": "Bianka Nardi",
+    "Rating": 67,
+    "ClubId": 6,
+    "Position": 12,
+    "Worth": "$8100132.28"
+  },
+  {
+    "Id": 142,
+    "FullName": "Dode Dulinty",
+    "Rating": 71,
+    "ClubId": 6,
+    "Position": 12,
+    "Worth": "$3483329.09"
+  },
+  {
+    "Id": 119,
+    "FullName": "Wenda Aldine",
+    "Rating": 60,
+    "ClubId": 6,
+    "Position": 13,
+    "Worth": "$1515229.29"
+  },
+  {
+    "Id": 121,
+    "FullName": "Aksel Paradin",
+    "Rating": 89,
+    "ClubId": 6,
+    "Position": 13,
+    "Worth": "$8194187.27"
+  },
+  {
+    "Id": 125,
+    "FullName": "Quint Dumphry",
+    "Rating": 53,
+    "ClubId": 6,
+    "Position": 14,
+    "Worth": "$6124154.11"
+  },
+  {
+    "Id": 128,
+    "FullName": "Dun Powton",
+    "Rating": 96,
+    "ClubId": 6,
+    "Position": 14,
+    "Worth": "$4126555.53"
+  },
+  {
+    "Id": 147,
+    "FullName": "Joshua Standing",
+    "Rating": 86,
+    "ClubId": 7,
+    "Position": 0,
+    "Worth": "$6943364.24"
+  },
+  {
+    "Id": 152,
+    "FullName": "Sheela Kassman",
+    "Rating": 92,
+    "ClubId": 7,
+    "Position": 0,
+    "Worth": "$3219714.93"
+  },
+  {
+    "Id": 154,
+    "FullName": "Doralynn Westmarland",
+    "Rating": 54,
+    "ClubId": 7,
+    "Position": 0,
+    "Worth": "$198252.08"
+  },
+  {
+    "Id": 161,
+    "FullName": "Rici De Gregoli",
+    "Rating": 93,
+    "ClubId": 7,
+    "Position": 0,
+    "Worth": "$3292626.95"
+  },
+  {
+    "Id": 153,
+    "FullName": "Herrick Goodison",
+    "Rating": 75,
+    "ClubId": 7,
+    "Position": 1,
+    "Worth": "$6569027.55"
+  },
+  {
+    "Id": 157,
+    "FullName": "Charlene McIlhatton",
+    "Rating": 98,
+    "ClubId": 7,
+    "Position": 2,
+    "Worth": "$698055.68"
+  },
+  {
+    "Id": 158,
+    "FullName": "Erica Whitelaw",
+    "Rating": 82,
+    "ClubId": 7,
+    "Position": 2,
+    "Worth": "$388448.41"
+  },
+  {
+    "Id": 151,
+    "FullName": "Wilden Allder",
+    "Rating": 60,
+    "ClubId": 7,
+    "Position": 3,
+    "Worth": "$3384827.85"
+  },
+  {
+    "Id": 146,
+    "FullName": "Sauveur Myatt",
+    "Rating": 87,
+    "ClubId": 7,
+    "Position": 6,
+    "Worth": "$6307452.74"
+  },
+  {
+    "Id": 159,
+    "FullName": "Eartha Le Marchand",
+    "Rating": 86,
+    "ClubId": 7,
+    "Position": 8,
+    "Worth": "$4865014.64"
+  },
+  {
+    "Id": 155,
+    "FullName": "Menard Wilbraham",
+    "Rating": 94,
+    "ClubId": 7,
+    "Position": 9,
+    "Worth": "$4829629.23"
+  },
+  {
+    "Id": 163,
+    "FullName": "Tally Dumphries",
+    "Rating": 78,
+    "ClubId": 7,
+    "Position": 7,
+    "Worth": "$3969481.24"
+  },
+  {
+    "Id": 156,
+    "FullName": "Ernst Swiers",
+    "Rating": 89,
+    "ClubId": 7,
+    "Position": 10,
+    "Worth": "$1964807.53"
+  },
+  {
+    "Id": 164,
+    "FullName": "Jobi Kenworthey",
+    "Rating": 96,
+    "ClubId": 7,
+    "Position": 10,
+    "Worth": "$8901428.68"
+  },
+  {
+    "Id": 149,
+    "FullName": "Kenyon Gilvary",
+    "Rating": 71,
+    "ClubId": 7,
+    "Position": 11,
+    "Worth": "$844630.20"
+  },
+  {
+    "Id": 150,
+    "FullName": "Allayne Cull",
+    "Rating": 73,
+    "ClubId": 7,
+    "Position": 11,
+    "Worth": "$6379321.27"
+  },
+  {
+    "Id": 148,
+    "FullName": "Rasla Veelers",
+    "Rating": 81,
+    "ClubId": 7,
+    "Position": 12,
+    "Worth": "$9005246.64"
+  },
+  {
+    "Id": 162,
+    "FullName": "Felicia Peet",
+    "Rating": 84,
+    "ClubId": 7,
+    "Position": 13,
+    "Worth": "$1220496.50"
+  },
+  {
+    "Id": 160,
+    "FullName": "Beatrisa Suggett",
+    "Rating": 67,
+    "ClubId": 7,
+    "Position": 14,
+    "Worth": "$4721045.40"
+  },
+  {
+    "Id": 168,
+    "FullName": "Drugi Meeson",
+    "Rating": 86,
+    "ClubId": 8,
+    "Position": 0,
+    "Worth": "$5412508.56"
+  },
+  {
+    "Id": 173,
+    "FullName": "Hannie Berthel",
+    "Rating": 59,
+    "ClubId": 8,
+    "Position": 0,
+    "Worth": "$4346033.30"
+  },
+  {
+    "Id": 167,
+    "FullName": "Randee Sallinger",
+    "Rating": 93,
+    "ClubId": 8,
+    "Position": 1,
+    "Worth": "$2842214.91"
+  },
+  {
+    "Id": 172,
+    "FullName": "Lyndell Curling",
+    "Rating": 54,
+    "ClubId": 8,
+    "Position": 1,
+    "Worth": "$2208497.68"
+  },
+  {
+    "Id": 166,
+    "FullName": "Ulick Cowpe",
+    "Rating": 51,
+    "ClubId": 8,
+    "Position": 2,
+    "Worth": "$5241810.07"
+  },
+  {
+    "Id": 180,
+    "FullName": "Nevin Fernley",
+    "Rating": 64,
+    "ClubId": 8,
+    "Position": 2,
+    "Worth": "$8689515.67"
+  },
+  {
+    "Id": 181,
+    "FullName": "Hew Bartunek",
+    "Rating": 80,
+    "ClubId": 8,
+    "Position": 2,
+    "Worth": "$4842831.36"
+  },
+  {
+    "Id": 174,
+    "FullName": "Andra Bevan",
+    "Rating": 83,
+    "ClubId": 8,
+    "Position": 2,
+    "Worth": "$1250742.58"
+  },
+  {
+    "Id": 188,
+    "FullName": "Alethea Raff",
+    "Rating": 86,
+    "ClubId": 8,
+    "Position": 3,
+    "Worth": "$1814375.98"
+  },
+  {
+    "Id": 170,
+    "FullName": "Zilvia Cartin",
+    "Rating": 64,
+    "ClubId": 8,
+    "Position": 4,
+    "Worth": "$6502010.36"
+  },
+  {
+    "Id": 179,
+    "FullName": "Fitz Dunbar",
+    "Rating": 91,
+    "ClubId": 8,
+    "Position": 4,
+    "Worth": "$5876544.13"
+  },
+  {
+    "Id": 165,
+    "FullName": "Ethelda MacDonnell",
+    "Rating": 79,
+    "ClubId": 8,
+    "Position": 5,
+    "Worth": "$1665413.96"
+  },
+  {
+    "Id": 178,
+    "FullName": "Nicole Parkeson",
+    "Rating": 55,
+    "ClubId": 8,
+    "Position": 5,
+    "Worth": "$5400879.82"
+  },
+  {
+    "Id": 186,
+    "FullName": "Irvine Witts",
+    "Rating": 87,
+    "ClubId": 8,
+    "Position": 6,
+    "Worth": "$8535718.50"
+  },
+  {
+    "Id": 175,
+    "FullName": "Romy Reichardt",
+    "Rating": 87,
+    "ClubId": 8,
+    "Position": 6,
+    "Worth": "$4483305.41"
+  },
+  {
+    "Id": 182,
+    "FullName": "Charin Dashkov",
+    "Rating": 55,
+    "ClubId": 8,
+    "Position": 6,
+    "Worth": "$7149236.31"
+  },
+  {
+    "Id": 183,
+    "FullName": "Rozalie Harcombe",
+    "Rating": 75,
+    "ClubId": 8,
+    "Position": 7,
+    "Worth": "$1463337.67"
+  },
+  {
+    "Id": 189,
+    "FullName": "Justine Boake",
+    "Rating": 75,
+    "ClubId": 8,
+    "Position": 7,
+    "Worth": "$1868291.76"
+  },
+  {
+    "Id": 171,
+    "FullName": "Josh Dunguy",
+    "Rating": 61,
+    "ClubId": 8,
+    "Position": 8,
+    "Worth": "$8340707.98"
+  },
+  {
+    "Id": 190,
+    "FullName": "Kris Simonou",
+    "Rating": 90,
+    "ClubId": 8,
+    "Position": 8,
+    "Worth": "$8102940.60"
+  },
+  {
+    "Id": 169,
+    "FullName": "Birdie Hartgill",
+    "Rating": 66,
+    "ClubId": 8,
+    "Position": 9,
+    "Worth": "$9686433.88"
+  },
+  {
+    "Id": 177,
+    "FullName": "Karney Anney",
+    "Rating": 64,
+    "ClubId": 8,
+    "Position": 9,
+    "Worth": "$9350786.35"
+  },
+  {
+    "Id": 191,
+    "FullName": "Hesther Grog",
+    "Rating": 57,
+    "ClubId": 8,
+    "Position": 9,
+    "Worth": "$2527854.35"
+  },
+  {
+    "Id": 184,
+    "FullName": "Quent Mylechreest",
+    "Rating": 72,
+    "ClubId": 8,
+    "Position": 10,
+    "Worth": "$4736045.16"
+  },
+  {
+    "Id": 187,
+    "FullName": "Annabal Durrand",
+    "Rating": 89,
+    "ClubId": 8,
+    "Position": 10,
+    "Worth": "$1133772.91"
+  },
+  {
+    "Id": 185,
+    "FullName": "Torie McLelland",
+    "Rating": 79,
+    "ClubId": 8,
+    "Position": 13,
+    "Worth": "$6889777.68"
+  },
+  {
+    "Id": 176,
+    "FullName": "Malvina Bamling",
+    "Rating": 86,
+    "ClubId": 8,
+    "Position": 13,
+    "Worth": "$848842.47"
+  },
+  {
+    "Id": 194,
+    "FullName": "Margery Azam",
+    "Rating": 53,
+    "ClubId": 9,
+    "Position": 0,
+    "Worth": "$6997247.03"
+  },
+  {
+    "Id": 198,
+    "FullName": "Stormi Montacute",
+    "Rating": 85,
+    "ClubId": 9,
+    "Position": 0,
+    "Worth": "$7682029.73"
+  },
+  {
+    "Id": 206,
+    "FullName": "Ardelis Coffee",
+    "Rating": 58,
+    "ClubId": 9,
+    "Position": 0,
+    "Worth": "$9453291.09"
+  },
+  {
+    "Id": 204,
+    "FullName": "Conant Daniely",
+    "Rating": 51,
+    "ClubId": 9,
+    "Position": 2,
+    "Worth": "$3342315.53"
+  },
+  {
+    "Id": 196,
+    "FullName": "Cherise Bellwood",
+    "Rating": 88,
+    "ClubId": 9,
+    "Position": 2,
+    "Worth": "$808735.78"
+  },
+  {
+    "Id": 200,
+    "FullName": "Wren Coghlan",
+    "Rating": 77,
+    "ClubId": 9,
+    "Position": 2,
+    "Worth": "$2056547.25"
+  },
+  {
+    "Id": 211,
+    "FullName": "Fidelio Southway",
+    "Rating": 72,
+    "ClubId": 9,
+    "Position": 4,
+    "Worth": "$1612362.06"
+  },
+  {
+    "Id": 209,
+    "FullName": "Hewitt Dedham",
+    "Rating": 66,
+    "ClubId": 9,
+    "Position": 6,
+    "Worth": "$9624712.87"
+  },
+  {
+    "Id": 214,
+    "FullName": "Ulberto Gooderson",
+    "Rating": 53,
+    "ClubId": 9,
+    "Position": 6,
+    "Worth": "$4921722.89"
+  },
+  {
+    "Id": 199,
+    "FullName": "Doralia Dullingham",
+    "Rating": 52,
+    "ClubId": 9,
+    "Position": 7,
+    "Worth": "$1011706.37"
+  },
+  {
+    "Id": 201,
+    "FullName": "Tiertza Jouhandeau",
+    "Rating": 95,
+    "ClubId": 9,
+    "Position": 7,
+    "Worth": "$961892.64"
+  },
+  {
+    "Id": 212,
+    "FullName": "Farlay Yarrington",
+    "Rating": 81,
+    "ClubId": 9,
+    "Position": 7,
+    "Worth": "$712122.62"
+  },
+  {
+    "Id": 217,
+    "FullName": "Tilda Mabbe",
+    "Rating": 56,
+    "ClubId": 9,
+    "Position": 7,
+    "Worth": "$3670046.73"
+  },
+  {
+    "Id": 192,
+    "FullName": "Renate Deverell",
+    "Rating": 60,
+    "ClubId": 9,
+    "Position": 8,
+    "Worth": "$221257.02"
+  },
+  {
+    "Id": 205,
+    "FullName": "Odella Bjerkan",
+    "Rating": 56,
+    "ClubId": 9,
+    "Position": 8,
+    "Worth": "$6483675.62"
+  },
+  {
+    "Id": 203,
+    "FullName": "Bordy Twiddle",
+    "Rating": 74,
+    "ClubId": 9,
+    "Position": 9,
+    "Worth": "$1907173.09"
+  },
+  {
+    "Id": 216,
+    "FullName": "Karia Nazaret",
+    "Rating": 99,
+    "ClubId": 9,
+    "Position": 9,
+    "Worth": "$8447823.18"
+  },
+  {
+    "Id": 213,
+    "FullName": "Clovis Landells",
+    "Rating": 63,
+    "ClubId": 9,
+    "Position": 10,
+    "Worth": "$6715659.04"
+  },
+  {
+    "Id": 193,
+    "FullName": "Corey Grunbaum",
+    "Rating": 82,
+    "ClubId": 9,
+    "Position": 11,
+    "Worth": "$4284720.97"
+  },
+  {
+    "Id": 195,
+    "FullName": "Kelbee Ibel",
+    "Rating": 79,
+    "ClubId": 9,
+    "Position": 12,
+    "Worth": "$8144823.80"
+  },
+  {
+    "Id": 207,
+    "FullName": "Jaine Dawdry",
+    "Rating": 61,
+    "ClubId": 9,
+    "Position": 12,
+    "Worth": "$4360219.45"
+  },
+  {
+    "Id": 210,
+    "FullName": "Desmond Pilpovic",
+    "Rating": 60,
+    "ClubId": 9,
+    "Position": 12,
+    "Worth": "$8948212.17"
+  },
+  {
+    "Id": 202,
+    "FullName": "Kalvin Elkington",
+    "Rating": 96,
+    "ClubId": 9,
+    "Position": 13,
+    "Worth": "$9368929.00"
+  },
+  {
+    "Id": 215,
+    "FullName": "Any Aird",
+    "Rating": 51,
+    "ClubId": 9,
+    "Position": 13,
+    "Worth": "$5300473.10"
+  },
+  {
+    "Id": 197,
+    "FullName": "Perrine Gwioneth",
+    "Rating": 88,
+    "ClubId": 9,
+    "Position": 14,
+    "Worth": "$5605755.50"
+  },
+  {
+    "Id": 208,
+    "FullName": "Manolo Dorkens",
+    "Rating": 98,
+    "ClubId": 9,
+    "Position": 14,
+    "Worth": "$5389347.88"
+  },
+  {
+    "Id": 220,
+    "FullName": "Calli Kuhlen",
+    "Rating": 78,
+    "ClubId": 10,
+    "Position": 0,
+    "Worth": "$8334192.80"
+  },
+  {
+    "Id": 234,
+    "FullName": "Faunie Noto",
+    "Rating": 55,
+    "ClubId": 10,
+    "Position": 0,
+    "Worth": "$3287398.93"
+  },
+  {
+    "Id": 229,
+    "FullName": "Astrix O'Neill",
+    "Rating": 62,
+    "ClubId": 10,
+    "Position": 1,
+    "Worth": "$1599619.62"
+  },
+  {
+    "Id": 236,
+    "FullName": "Jessey Caldera",
+    "Rating": 70,
+    "ClubId": 10,
+    "Position": 2,
+    "Worth": "$3058873.68"
+  },
+  {
+    "Id": 222,
+    "FullName": "Aurthur Innocenti",
+    "Rating": 96,
+    "ClubId": 10,
+    "Position": 2,
+    "Worth": "$2663704.83"
+  },
+  {
+    "Id": 223,
+    "FullName": "Aridatha Andrzejak",
+    "Rating": 74,
+    "ClubId": 10,
+    "Position": 3,
+    "Worth": "$152771.93"
+  },
+  {
+    "Id": 225,
+    "FullName": "Bendix MacAskill",
+    "Rating": 67,
+    "ClubId": 10,
+    "Position": 5,
+    "Worth": "$2099737.98"
+  },
+  {
+    "Id": 219,
+    "FullName": "Lynnette Pilcher",
+    "Rating": 86,
+    "ClubId": 10,
+    "Position": 6,
+    "Worth": "$7109007.45"
+  },
+  {
+    "Id": 228,
+    "FullName": "Roshelle Goley",
+    "Rating": 83,
+    "ClubId": 10,
+    "Position": 6,
+    "Worth": "$1137614.53"
+  },
+  {
+    "Id": 221,
+    "FullName": "Margery Sapsforde",
+    "Rating": 56,
+    "ClubId": 10,
+    "Position": 7,
+    "Worth": "$9872341.82"
+  },
+  {
+    "Id": 227,
+    "FullName": "Thorin Cotilard",
+    "Rating": 99,
+    "ClubId": 10,
+    "Position": 7,
+    "Worth": "$6530727.23"
+  },
+  {
+    "Id": 226,
+    "FullName": "Erinn Dorton",
+    "Rating": 55,
+    "ClubId": 10,
+    "Position": 8,
+    "Worth": "$2601821.00"
+  },
+  {
+    "Id": 230,
+    "FullName": "Umberto Varnes",
+    "Rating": 60,
+    "ClubId": 10,
+    "Position": 8,
+    "Worth": "$4006235.77"
+  },
+  {
+    "Id": 232,
+    "FullName": "Bernice Vasler",
+    "Rating": 89,
+    "ClubId": 10,
+    "Position": 10,
+    "Worth": "$8228100.38"
+  },
+  {
+    "Id": 237,
+    "FullName": "Bethany Bratchell",
+    "Rating": 59,
+    "ClubId": 10,
+    "Position": 9,
+    "Worth": "$3764213.01"
+  },
+  {
+    "Id": 218,
+    "FullName": "Chucho Burdekin",
+    "Rating": 73,
+    "ClubId": 10,
+    "Position": 11,
+    "Worth": "$1616055.01"
+  },
+  {
+    "Id": 224,
+    "FullName": "Kelly Doumer",
+    "Rating": 55,
+    "ClubId": 10,
+    "Position": 11,
+    "Worth": "$2346138.12"
+  },
+  {
+    "Id": 235,
+    "FullName": "Evania Larvor",
+    "Rating": 70,
+    "ClubId": 10,
+    "Position": 11,
+    "Worth": "$9297652.90"
+  },
+  {
+    "Id": 231,
+    "FullName": "Sergent Klemt",
+    "Rating": 95,
+    "ClubId": 10,
+    "Position": 13,
+    "Worth": "$6510265.66"
+  },
+  {
+    "Id": 233,
+    "FullName": "Saxon Archanbault",
+    "Rating": 74,
+    "ClubId": 10,
+    "Position": 14,
+    "Worth": "$4888641.06"
+  }
+]
