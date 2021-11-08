@@ -3,3 +3,6 @@ This repository is for solution for "Nordeus Backend and Game Design Challenge 2
 
 ## Task:
 Implementation of matchmaking for football manager game.
+
+## Solution:
+Solution is implemented .Net 5 and contains mock data for easy testing.
