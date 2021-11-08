@@ -13,6 +13,9 @@ namespace Common.Models
 
         public string FullName { get; set; }
 
+        /// <summary>
+        /// Player position that is best for him.
+        /// </summary>
         public PlayerPosition Position { get; set; }
 
         /// <summary>
